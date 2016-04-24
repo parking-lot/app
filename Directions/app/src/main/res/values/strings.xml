@@ -1,0 +1,12 @@
+<resources>
+    <string name="google_app_id">parkingsimulator</string>
+    <string name="app_name">Directions</string>
+    <string name="title_activity_user_preverence">Settings</string>
+
+    <string-array name = "preferences_array">
+        <item>Closest to Target</item>
+        <item>Fastest to Target</item>
+        <item>Closest to Exit</item>
+        <item>Closest Parking Space</item>
+    </string-array>
+</resources>
